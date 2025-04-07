@@ -284,7 +284,7 @@ To run this project locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/vivjori115/Tomato-Disease-Prediction
+   git clone https://github.com/Katyayani2610/Tomato-Disease-Prediction
 2. Navigate to the project directory:
    ```bash
    cd Tomato-Disease-Prediction
@@ -314,7 +314,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Explore the Project
 
 - **Website**: [Tomato Disease Prediction App](https://tomato-disease-prediction-7bsmewffvrn7bkzxhizdnu.streamlit.app/)
-- **LinkedIn**: [Vivek Jori ](https://www.linkedin.com/in/vivek-jori-11s/)
+- **LinkedIn**: [Vivek Jori ](https://www.linkedin.com/in/katyayani-a-5355b121a/)
 
 
 >>>>>>> 3160a77db8565d696f677cf1afda7309668d5abe
