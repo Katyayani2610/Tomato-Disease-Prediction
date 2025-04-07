@@ -35,7 +35,7 @@ The **Tomato Disease Prediction project** is a machine learning solution aimed a
 **1.Clone the Repository:**
 
 ```bash
-  git clone https://github.com/vivjori115/Tomato-Disease-Prediction
+  git clone https://github.com/Katyayani2610/Tomato-Disease-Prediction
   cd Credit-Risk-Model
 ```
 **2.Set Up a Virtual Environment:**
@@ -166,7 +166,7 @@ Here is the basic suggested skeleton for your data science repo (you can structu
    Precision indicates the percentage of true positive predictions out of all positive predictions made by the model. It helps to evaluate the model’s ability to avoid false positives.
 
 3. **Recall**:  
-   Recall represents the percentage of true positive predictions out of all actual positive instances. It helps to evaluate the model’s ability to correctly identify positive cases.
+   Recall represents the percentage of accurate optimistic predictions out of all actual positive instances. It helps to evaluate the model’s ability to correctly identify positive cases.
 
 4. **F1-Score**:  
    F1-Score is the harmonic mean of precision and recall. It provides a balance between the two, especially when dealing with imbalanced classes.
